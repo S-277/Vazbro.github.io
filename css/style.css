@@ -377,7 +377,7 @@ body.lock {
         width: 26px;
         position: absolute;
         height: 26px;
-        background-image: url(../images/lang-ico.svg);
+        background-image: url(/images/lang-ico.svg);
     }
 
     .main-logo {
